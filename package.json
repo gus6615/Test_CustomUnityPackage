@@ -1,8 +1,8 @@
 {
-  "name": "com.chennyang.developkit",
-  "version": "1.0.5",
-  "displayName": "DevelopKit",
-  "description": "이 패키지는 개발에 유용한 기능을 제공합니다.",
+  "name": "com.chennyang.utilites",
+  "version": "1.0.0",
+  "displayName": "Utilities",
+  "description": "This is a collection of utilities and templates for Unity development, including basic templates, UI components, and more.",
   "unity": "2019.1",
   "keywords": [],
   "author": {
@@ -10,13 +10,9 @@
     "email": "wns6615@gmail.com"
   },
   "samples": [
-    {
-      "displayName": "Basic Template",
-      "description": "초기 개발에 유용한 기능과 템플릿을 제공합니다.",
-      "path": "Samples~/Basic Template"
-    }
+
   ],
   "dependencies": {
-    "com.cysharp.unitask": "git+https://github.com/Cysharp/UniTask.git#2.5.0"
+
   }
 }
